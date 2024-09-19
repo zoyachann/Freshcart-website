@@ -1,0 +1,49 @@
+
+
+.navbar {
+    padding: .625rem 1rem;
+}
+@media (min-width: 992px) {
+    .py-lg-2 {
+        padding-bottom: .5rem !important;
+        padding-top: .5rem !important;
+    }
+}
+.bg-primary {
+    --fc-bg-opacity: 1;
+    background-color: #0aad0a !important;
+}
+
+.department-btn{
+    border: none;
+    background-color: #0aad0a !important;
+}
+
+.btn-color{
+    background-color: #0aad0a !important;
+}
+
+.input-width {
+    width: 60px
+}
+
+
+
+.footer-bg{
+    background-color: #f0f3f2;
+    margin-top: 100px !important;
+    
+}
+
+.footer-ul li a{
+color: grey;
+}
+
+
+.footer-ul li a:hover{
+    color: #0aad0a;
+}
+
+.sing-in-color{
+    color: #0aad0a;
+}

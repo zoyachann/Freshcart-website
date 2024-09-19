@@ -1,0 +1,23 @@
+.sing-in-color {
+    background-color: #0aad0a;
+}
+
+.sign-up-color {
+    color: #0aad0a;
+
+}
+
+.footer-bg {
+    background-color: #f0f3f2;
+    margin-top: 100px !important;
+
+}
+
+.footer-ul li a {
+    color: grey;
+}
+
+
+.footer-ul li a:hover {
+    color: #0aad0a;
+}

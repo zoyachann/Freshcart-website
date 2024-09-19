@@ -1,0 +1,206 @@
+
+/* .navbar-custom {
+    background-color: #28a745;
+    padding: 10px;
+}
+
+.navbar-actions .icon {
+    margin-right: 40px;
+    position: relative;
+    display: flex;
+}
+.icon-badge {
+  
+    top: -5px;
+    right: -5px;
+    color: white;
+    border-radius: 50%;
+    font-size: 0.75rem;
+    padding: 3px 8px;
+}
+@media (min-width: 992px) {
+    .border-bottom-lg-0 {
+        border-bottom: 0 !important;
+    }
+}
+
+
+
+.navbar {
+    padding: .625rem 1rem;
+}
+@media (min-width: 992px) {
+    .py-lg-2 {
+        padding-bottom: .5rem !important;
+        padding-top: .5rem !important;
+    }
+}
+.bg-primary {
+    --fc-bg-opacity: 1;
+    background-color: #0aad0a !important;
+}
+
+.banner {
+    background-color: #edf3f4;
+  
+    padding: 20px;
+    margin-bottom: 20px;
+
+}
+
+.promo-section {
+    margin: 20px 0;
+}
+
+.promo-card {
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.promo-card img {
+    max-width: 100%;
+    height: auto;
+} */
+
+.navbar {
+    padding: .625rem 1rem;
+}
+@media (min-width: 992px) {
+    .py-lg-2 {
+        padding-bottom: .5rem !important;
+        padding-top: .5rem !important;
+    }
+}
+.bg-primary {
+    --fc-bg-opacity: 1;
+    background-color: #0aad0a !important;
+}
+
+.department-btn{
+    border: none;
+    background-color: #0aad0a !important;
+}
+
+
+/*  */
+/*  Category Cards */
+
+h3 {
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: #333;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    border: 1px solid #0aad0a;
+}
+
+.card img {
+    height: 150px;
+    object-fit: contain;
+    padding: 15px;
+}
+
+.card-text {
+    font-size: 1rem;
+    font-weight: 500;
+    color: #555;
+    margin-top: 10px;
+}
+
+.container {
+    max-width: 1200px;
+}
+
+@media (max-width: 576px) {
+    .card img {
+        height: 120px;
+    }
+    
+    h3 {
+        font-size: 1.4rem;
+    }
+}
+
+@media (min-width: 992px) {
+    .container {
+        max-width: 1440px;
+    }
+}
+/* Fruits & vegetables cards  */
+.cards {
+    border: 1px solid rgb(196, 196, 196);
+}
+
+.cards:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    border: 1px solid #0aad0a;
+}
+
+.cards img {
+    height: 200px;
+    object-fit: contain;
+   
+}
+
+
+.card-text {
+    font-size: 13px;
+    font-weight: 500;
+    color: #555;
+    margin-top: 10px;
+}
+
+
+.container {
+    max-width: 1200px;
+}
+
+@media (max-width: 576px) {
+    .cards img {
+        height: 140px;
+        
+    }
+     .container {
+        max-width: 1440px;
+    }
+   
+}
+@media (min-width: 992px) {
+    .container {
+        max-width: 1440px;
+    }
+}
+
+.btn-color{
+    background-color: #0aad0a !important;
+}
+
+.footer-bg{
+    background-color: #f0f3f2;
+    margin-top: 100px !important;
+    
+}
+
+.footer-ul li a{
+color: grey;
+}
+
+
+.footer-ul li a:hover{
+    color: #0aad0a;
+}
+
+.sing-in-color{
+    color: #0aad0a;
+}
